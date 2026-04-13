@@ -1,0 +1,28 @@
+# main links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Research"
+    url: "/#-research-interests"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Projects"
+    url: "/#️-research-projects"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Patents"
+    url: "/#-patents"
+
+  - title: "Educations"
+    url: "/#-education"
+
+  - title: "Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Service"
+    url: "/#-service"

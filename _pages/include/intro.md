@@ -1,0 +1,5 @@
+Hi there! 👋 I am Chang Yu (于畅), a Postdoc researcher at the College of Engineering, Westlake University, working with Chair Prof. [Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html) (IEEE Fellow). I received my Ph.D. in 2024 from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. [Zhen Lei](https://people.ucas.ac.cn/~zlei) (IEEE Fellow). Before that, I received my B.E. in Automation from Xi'an Jiaotong University.
+
+My research sits at the intersection of **AI for Science** and **World Model**. I focus on uncovering intrinsic structural priors in complex systems — hierarchical composition, the biological Central Dogma, and dynamical priors — and using them to constrain deep representation and generation models, bridging visual perception with biological modeling.
+
+If you are interested, feel free to contact me for future collaborations through <a href="mailto:yuchang@westlake.edu.cn">Email</a>.
