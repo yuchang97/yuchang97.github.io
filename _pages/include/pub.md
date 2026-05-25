@@ -47,11 +47,11 @@
 
 <div class='paper-box' data-domain="AI4Science">
   <div class='paper-box-image'>
-    <span class="conference-label">ICML 2026 (<span style="color:red;font-style:normal;font-weight:700;">Oral, Top 0.7%</span>)</span>
+    <span class="conference-label">ICML 2026</span>
     <img src="../images/pub/geometric.png" alt="sym" width="100%">
   </div>
   <div class='paper-box-text'>
-    <p><a href="#"><strong>Geometric Flow Grounding: A Unified Manifold Decoupling Framework for Dynamics Discovery and Verification</strong></a></p>
+    <p><a href="#"><strong>Geometric Flow Grounding: A Unified Manifold Decoupling Framework for Dynamics Discovery and Verification</strong></a> (<strong style="color:red;">Oral, Top 0.7%</strong>)</p>
     <p><strong><u>Chang Yu</u></strong>, Yuxuan Luo, Yixuan Du, et al.</p>
   </div>
 </div>
