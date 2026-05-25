@@ -47,23 +47,23 @@
 
 <div class='paper-box' data-domain="AI4Science">
   <div class='paper-box-image'>
+    <span class="conference-label">ICML 2026 (<span style="color:red;font-style:normal;font-weight:700;">Oral, Top 0.7%</span>)</span>
+    <img src="../images/pub/geometric.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="#"><strong>Geometric Flow Grounding: A Unified Manifold Decoupling Framework for Dynamics Discovery and Verification</strong></a></p>
+    <p><strong><u>Chang Yu</u></strong>, Yuxuan Luo, Yixuan Du, et al.</p>
+  </div>
+</div>
+
+<div class='paper-box' data-domain="AI4Science">
+  <div class='paper-box-image'>
     <span class="conference-label">ICLR 2026</span>
     <img src="../images/pub/cdbridge.png" alt="sym" width="100%">
   </div>
   <div class='paper-box-text'>
     <p><a href="#"><strong>CDBridge: A Cross-omics Post-training Bridge Strategy for Context-aware Biological Modeling</strong></a></p>
     <p><strong><u>Chang Yu</u></strong>, Siyuan Li, Zicheng Liu, Jingbo Zhou, Xianglong Guo, Kai Yu, Yuqing Zhou, Ken Li, Zelin Zang, Zhen Lei, Stan Z. Li</p>
-  </div>
-</div>
-
-<div class='paper-box' data-domain="AI4Science">
-  <div class='paper-box-image'>
-    <span class="conference-label">ICML 2026 (under review)</span>
-    <img src="../images/pub/geometric.png" alt="sym" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <p><a href="#"><strong>Geometric Flow Grounding: A Unified Manifold Decoupling Framework for Dynamics Discovery and Verification</strong></a></p>
-    <p><strong><u>Chang Yu</u></strong>, Yuxuan Luo, Yixuan Du, et al.</p>
   </div>
 </div>
 

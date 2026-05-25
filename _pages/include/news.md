@@ -9,7 +9,7 @@
   <li><em>2026:</em> ✨✨✨ <strong>SYNC</strong> (co-corresponding) accepted at <strong>ICLR 2026</strong>.</li>
   <li><em>2026:</em> ✨✨✨ <strong>SteinsGate</strong> (co-corresponding) accepted at <strong>ICLR 2026</strong>.</li>
   <li><em>2026:</em> ✨✨✨ <strong>VitaMol</strong> (co-corresponding) accepted at <strong>Pattern Recognition</strong>.</li>
-  <li><em>2026:</em> 📝 <strong>Geometric Flow Grounding</strong> (first author) in submission at <strong>ICML 2026</strong>.</li>
+  <li><em>2026:</em> ✨✨✨ <strong>Geometric Flow Grounding</strong> (first author) accepted at <strong>ICML 2026</strong> as <strong style="color:red;">Oral, Top 0.7%</strong>.</li>
   <li><em>2025:</em> ✨✨✨ <strong>DaCapo</strong> (co-corresponding) accepted at <strong>CVPR 2025</strong>.</li>
   <li><em>2025:</em> 🎓 Started as Postdoc at <strong>College of Engineering, Westlake University</strong>, working with Prof. Stan Z. Li.</li>
   <li><em>2024.06:</em> 🎓🎓🎓 Obtained Ph.D. degree from <strong>CASIA</strong>, advised by Prof. Zhen Lei.</li>
